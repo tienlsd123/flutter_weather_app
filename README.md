@@ -1,16 +1,13 @@
-# sample_weather
+# Weather Application Using Flutter
 
-sample weather app flutter
+Sample weather app flutter
 
-## Getting Started
+## Using in Project
+- [Weather API](https://www.weatherapi.com/)
 
-This project is a starting point for a Flutter application.
+## Flutter Dependencies
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter HTTP 1.1.0](https://pub.dev/packages/http)
+- [Flutter Geolocator Plugin 10.1.0](https://pub.dev/packages/geolocator)
+- [Flutter Geocoding Plugin 2.1.1](https://pub.dev/packages/geocoding)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
